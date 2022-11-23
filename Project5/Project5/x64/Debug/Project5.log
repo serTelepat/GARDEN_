@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\ACER\source\repos\Project5\Project5\Weather.h(17,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project5.vcxproj -> C:\Users\ACER\source\repos\Project5\x64\Debug\Project5.exe
