@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\ACER\source\repos\Project6\Project6\Weather.h(17,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ACER\source\repos\Project6\Project6\Pests.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\ACER\source\repos\Project6\Project6\Pests.h(15,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ACER\source\repos\Project6\Project6\Pests.h(38,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Project6.vcxproj -> C:\Users\ACER\source\repos\Project6\x64\Debug\Project6.exe
